@@ -20,6 +20,7 @@
     "@cypress/webpack-preprocessor": "^5.0.0",
     "@types/cucumber": "^7.0.2",
     "@types/node": "^20.4.8",
+    "browserify": "^17.0.1",
     "cypress": "^14.0.0",
     "cypress-cucumber-preprocessor": "^4.3.1",
     "cypress-mochawesome-reporter": "^3.8.2",

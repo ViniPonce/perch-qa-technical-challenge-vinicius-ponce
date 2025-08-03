@@ -1,5 +1,5 @@
-import 'cypress-cucumber-preprocessor/steps';
-import './commands';
+import 'cypress-mochawesome-reporter/register';
+
 
 // Permitir que los tests continúen después de errores
 Cypress.on('uncaught:exception', (err, runnable) => {

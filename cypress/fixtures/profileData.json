@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "name": "John Doe",
+    "email": "john.doe@example.com"
+  },
+  "orders": [
+    {
+      "orderNumber": "12345",
+      "date": "2025-08-01T14:00:00Z",
+      "total": 149.97,
+      "items": [
+        {
+          "id": 1,
+          "name": "Wireless Headphones",
+          "price": 49.99,
+          "quantity": 3,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    }
+  ]
+}
