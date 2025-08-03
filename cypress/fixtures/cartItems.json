@@ -1,9 +1,0 @@
-[
-  {
-    "id": 1,
-    "name": "Test Product",
-    "price": 99.99,
-    "quantity": 1,
-    "image": "/images/test-product.jpg"
-  }
-]
